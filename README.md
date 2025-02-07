@@ -6,7 +6,7 @@ A modern, interactive, and responsive age calculator web application that calcul
 
 ## 📸 Screenshots
 
-![Desktop View](screenshot.png)
+[Age Calculator](./screenshot.png)
 
 ---
 
